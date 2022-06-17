@@ -343,7 +343,7 @@ color: #634e41; }
 #selfprogram4{
     /* width: 1870px;  */
     width:1355px;
-    margin:0px auto; height:573px;
+    margin:0px auto; height:653px;
     padding-right: 70px; text-align: center;}
 /*
 .selfprogram4_inner
@@ -406,7 +406,7 @@ width:1366.97px;/*100% margin:0px auto; height:573px;
    
 /*footer*/
 #footer{width:100%; height:120px; background: #fef6e5;
-    padding-top:40px; margin-top: 80px;}
+    padding-top:40px; /*margin-top: 80px;*/}
 .footer_inner{padding-left: 50px; width:1420px; margin:0 auto;}
 
 .footerlogo{float:right;}
